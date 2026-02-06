@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Ferhat 👋
 
-<!--
-**ferhatolmez/ferhatolmez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Full Stack Developer with a strong focus on **backend development** and real-world projects.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- **Frontend:** React, Next.js, HTML, CSS, JavaScript
+- **Backend:** Node.js, Laravel, REST APIs
+- **Databases:** MySQL, SQLite
+- **AI & Tools:** Python, Hugging Face, Basic NLP
+- **Other:** Git, GitHub, Docker (basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Do
+- Build full-stack web applications
+- Design RESTful APIs
+- Integrate AI services into web apps
+- Focus on clean, readable, and maintainable code
+
+## 📌 Featured Projects
+- 💬 **AI-Powered Chat App**  
+  Real-time chat application with sentiment analysis using React, Node.js, and a Python AI service.
+
+- 🌐 **Full Stack Web Applications**  
+  CRUD-based applications using Laravel and modern frontend frameworks.
+
+## 📫 Contact
+- Email: ferology1317@gmail.com  
+- GitHub: https://github.com/ferhatolmez  
+- Location: Turkey
+
+---
+💡 Actively looking for junior / entry-level full stack or backend developer roles.
+

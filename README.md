@@ -25,6 +25,8 @@
 
 ## 🚀 About Me
 
+<div align="center">
+
 ```typescript
 const ferhat: Developer = {
     location: "Istanbul, Turkey 🇹🇷",
@@ -60,6 +62,8 @@ const ferhat: Developer = {
     openToWork: true
 };
 ```
+
+</div>
 
 <br/>
 
@@ -104,20 +108,24 @@ const ferhat: Developer = {
 <div align="center">
 
 ### 🏛️ Bachelor of Science in Software Engineering
-**Atatürk University** • Erzurum, Turkey
+**Atatürk University** • Erzurum, Turkey  
 **📅 October 2021 - June 2025**
 
 </div>
 
-<details>
+<details open>
 <summary><b>📚 Relevant Coursework</b></summary>
 <br/>
+
+<div align="center">
 
 | **Computer Science Fundamentals** | **Web Development** | **Advanced Topics** |
 |:---:|:---:|:---:|
 | Data Structures | Web Programming | Artificial Intelligence |
 | Algorithm Design & Analysis | Web Technologies | Machine Learning |
 | Database Management Systems | - | Software Architecture & Design |
+
+</div>
 
 </details>
 
@@ -286,11 +294,23 @@ const ferhat: Developer = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ferhatolmez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ferhatolmez&theme=tokyonight&hide_border=true" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ferhatolmez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatolmez&layout=compact&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ferhatolmez&theme=tokyo-night&hide_border=true" />
+<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=ferhatolmez&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatolmez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=ferhatolmez&limit=5&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
+</div>
+
+<br/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ferhatolmez&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" width="98%"/>
 
 </div>
 
@@ -300,13 +320,13 @@ const ferhat: Developer = {
 
 <div align="center">
 
-| 🎓 **Certification** | 🏢 **Platform** | 📚 **Topics** |
+| 🎓 **Certification** | 🏢 **Platform** | 📚 **Key Topics** |
 |:---|:---:|:---|
-| React – The Complete Guide | Udemy | React, Next.js, Redux, Hooks |
-| Node.js Complete Bootcamp | Udemy | Node.js, Express, MongoDB, REST APIs |
-| Understanding TypeScript | Udemy | TypeScript, Types, Interfaces, Generics |
-| Python Programming Bootcamp | Udemy | Python, Data Structures, Algorithms |
-| Git & GitHub Version Control | BTK Akademi | Git, GitHub, Version Control, Collaboration |
+| **React – The Complete Guide** | Udemy | React Fundamentals, Next.js, Redux, Hooks, Context API |
+| **Node.js Complete Bootcamp** | Udemy | Node.js, Express, MongoDB, REST APIs, Authentication |
+| **Understanding TypeScript** | Udemy | TypeScript, Types, Interfaces, Generics, Decorators |
+| **Python Programming Bootcamp** | Udemy | Python, Data Structures, Algorithms, OOP |
+| **Git & GitHub Version Control** | BTK Akademi | Git, GitHub, Version Control, Collaboration |
 
 </div>
 
@@ -323,14 +343,14 @@ const ferhat: Developer = {
 <br/><br/>
 <b>🎯 Problem Solver</b>
 <br/><br/>
-Analytical mindset with a passion for tackling complex challenges and finding elegant solutions
+Analytical mindset with passion for tackling complex challenges and finding elegant solutions
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 <br/><br/>
 <b>🚀 Fast Learner</b>
 <br/><br/>
-Quick to adapt to new technologies and frameworks with proven track record in certifications
+Quick to adapt to new technologies with proven track record in certifications and projects
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
@@ -344,23 +364,23 @@ Experienced in collaborative development, code reviews, and agile methodologies
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 <br/><br/>
-<b>✨ Clean Code</b>
+<b>✨ Clean Code Advocate</b>
 <br/><br/>
-Committed to writing maintainable, well-documented, and tested code following best practices
+Committed to writing maintainable, well-documented code following best practices
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 <br/><br/>
-<b>🎨 UI/UX Focus</b>
+<b>🎨 UI/UX Focused</b>
 <br/><br/>
-Strong eye for design and user experience, creating intuitive and beautiful interfaces
+Strong eye for design and user experience, creating intuitive interfaces
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
 <br/><br/>
 <b>📈 Growth Mindset</b>
 <br/><br/>
-Constantly learning and improving through personal projects, courses, and community engagement
+Constantly learning through personal projects, courses, and community engagement
 </td>
 </tr>
 </table>
@@ -369,43 +389,77 @@ Constantly learning and improving through personal projects, courses, and commun
 
 <br/>
 
-## 🎯 Current Focus & Goals
+## 🎯 Development Roadmap
 
 <div align="center">
 
 ```mermaid
-graph LR
-    A[Current Skills] --> B[Full Stack Development]
+graph TB
+    A[Current Expertise] --> B[Full Stack Development]
     A --> C[AI/ML Integration]
-    B --> D[System Design]
-    B --> E[Cloud Architecture]
-    C --> F[Advanced ML Models]
-    D --> G[Scalable Solutions]
-    E --> G
-    F --> G
-    G --> H[Senior Developer Role]
     
-    style A fill:#61dafb
-    style B fill:#43853d
-    style C fill:#ff6f00
-    style D fill:#563d7c
-    style E fill:#2496ed
-    style F fill:#d00000
-    style G fill:#ffd700
-    style H fill:#ff69b4
+    B --> D[Advanced React Patterns]
+    B --> E[System Design]
+    B --> F[Microservices]
+    
+    C --> G[Deep Learning]
+    C --> H[Computer Vision]
+    
+    D --> I[Cloud Architecture]
+    E --> I
+    F --> I
+    G --> I
+    H --> I
+    
+    I --> J[Senior Developer]
+    
+    style A fill:#61dafb,stroke:#333,color:#000
+    style B fill:#43853d,stroke:#333,color:#fff
+    style C fill:#ff6f00,stroke:#333,color:#fff
+    style D fill:#563d7c,stroke:#333,color:#fff
+    style E fill:#2496ed,stroke:#333,color:#fff
+    style F fill:#ff6c37,stroke:#333,color:#fff
+    style G fill:#d00000,stroke:#333,color:#fff
+    style H fill:#5c3ee8,stroke:#333,color:#fff
+    style I fill:#ffd700,stroke:#333,color:#000
+    style J fill:#ff69b4,stroke:#333,color:#fff
 ```
 
 </div>
 
-**🎯 Short-term Goals:**
-- Master advanced React patterns and Next.js features
-- Deepen understanding of system design and microservices
-- Contribute to open-source projects
+### 🎯 Short-term Goals (3-6 months)
+- 🔥 Master advanced React patterns (Compound Components, Render Props, Custom Hooks)
+- 🏗️ Deepen understanding of system design and scalable architectures
+- 🌐 Build and deploy production-grade full-stack applications
+- 🤝 Contribute to open-source projects and build community presence
 
-**🚀 Long-term Goals:**
-- Become a senior full-stack developer
-- Build impactful products that solve real-world problems
-- Mentor junior developers and share knowledge
+### 🚀 Long-term Goals (1-2 years)
+- 💼 Secure a position as a Senior Full-Stack Developer
+- 🎓 Master cloud technologies (AWS/Azure/GCP)
+- 📚 Mentor junior developers and share knowledge through tech blogs
+- 🏆 Build impactful products that solve real-world problems
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ferhatolmez&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="98%"/>
+
+</div>
+
+<br/>
+
+## 🔥 Recent Activity
+
+<div align="center">
+
+<!--START_SECTION:activity-->
+<!-- This section will be automatically updated -->
+<!--END_SECTION:activity-->
+
+</div>
 
 <br/>
 
@@ -415,15 +469,21 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 
-### 💼 Open to Full-Stack & Backend Developer Opportunities
+<br/><br/>
+
+### 💼 **Open to Full-Stack & Backend Developer Opportunities**
+
+<br/>
 
 <p>
 <a href="mailto:ferology1317@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ferhat-ölmez-460555363">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://github.com/ferhatolmez">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
@@ -431,15 +491,19 @@ graph LR
 
 <br/>
 
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### 💭 *"First, solve the problem. Then, write the code."* – John Johnson
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=ferhatolmez&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ferhatolmez&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
 <br/>
 
-**⭐️ From [Ferhat Ölmez](https://github.com/ferhatolmez) | Made with ❤️ in Istanbul, Turkey**
+**⭐️ From [Ferhat Ölmez](https://github.com/ferhatolmez) | Made with ❤️ in Istanbul, Turkey 🇹🇷**
+
+<br/>
+
+*If you like my work, consider giving a ⭐ to my repositories!*
 
 </div>
 

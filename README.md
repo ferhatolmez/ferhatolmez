@@ -127,7 +127,7 @@ const ferhat: Developer = {
 
 <br/>
 
-## 🛠️ Technical Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -195,7 +195,6 @@ const ferhat: Developer = {
 - 🧠 AI-powered responses
 - 🔐 User authentication
 - 🎨 Modern responsive UI
-- ⚡ Low-latency communication
 
 </td>
 <td width="50%">
@@ -220,8 +219,7 @@ const ferhat: Developer = {
 - 🔬 Deep learning classification
 - 📊 High accuracy predictions
 - 🖼️ Image preprocessing pipeline
-- 📈 Performance metrics tracking
-- 🎯 CNN architecture implementation
+- 🎯 CNN architecture
 
 </td>
 </tr>
@@ -249,7 +247,6 @@ const ferhat: Developer = {
 - 📊 Health metrics dashboard
 - 👥 Role-based access control
 - 📅 Appointment management
-- 📝 Medical record system
 - 🔒 Secure data handling
 
 </td>
@@ -276,7 +273,6 @@ const ferhat: Developer = {
 - 🔄 Peer-to-peer connections
 - 💬 Integrated text chat
 - 👥 Multi-participant support
-- 📡 Adaptive network handling
 
 </td>
 </tr>
@@ -286,27 +282,15 @@ const ferhat: Developer = {
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
   
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ferhatolmez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="Ferhat's GitHub Stats" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ferhatolmez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
 
-<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=ferhatolmez&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff" alt="Ferhat's Streak Stats" />
+<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=ferhatolmez&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff" alt="Streak Stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatolmez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ferhatolmez&theme=tokyonight&utcOffset=3" alt="Productive Time" />
-
-</div>
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ferhatolmez&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" width="98%" alt="Contribution Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ferhatolmez&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" alt="Contribution Graph"/>
 
 </div>
 
@@ -316,13 +300,13 @@ const ferhat: Developer = {
 
 <div align="center">
 
-| 🎓 **Certification** | 🏢 **Platform** | 📚 **Key Topics** |
+| 🎓 **Certification** | 🏢 **Platform** | 📚 **Topics** |
 |:---|:---:|:---|
-| **React – The Complete Guide** | Udemy | React Fundamentals, Next.js, Redux, Hooks, Context API |
-| **Node.js Complete Bootcamp** | Udemy | Node.js, Express, MongoDB, REST APIs, Authentication |
-| **Understanding TypeScript** | Udemy | TypeScript, Types, Interfaces, Generics, Decorators |
-| **Python Programming Bootcamp** | Udemy | Python, Data Structures, Algorithms, OOP |
-| **Git & GitHub Version Control** | BTK Akademi | Git, GitHub, Version Control, Collaboration |
+| React – The Complete Guide | Udemy | React, Next.js, Redux, Hooks |
+| Node.js Complete Bootcamp | Udemy | Node.js, Express, MongoDB, REST APIs |
+| Understanding TypeScript | Udemy | TypeScript, Types, Interfaces, Generics |
+| Python Programming Bootcamp | Udemy | Python, Data Structures, Algorithms |
+| Git & GitHub Version Control | BTK Akademi | Git, GitHub, Collaboration |
 
 </div>
 
@@ -339,44 +323,21 @@ const ferhat: Developer = {
 <br/><br/>
 <b>🎯 Problem Solver</b>
 <br/><br/>
-Analytical mindset with passion for tackling complex challenges and finding elegant solutions
+Analytical mindset with passion for elegant solutions
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 <br/><br/>
 <b>🚀 Fast Learner</b>
 <br/><br/>
-Quick to adapt to new technologies with proven track record in certifications and projects
+Quick to adapt with proven track record
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 <br/><br/>
 <b>🤝 Team Player</b>
 <br/><br/>
-Experienced in collaborative development, code reviews, and agile methodologies
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<br/><br/>
-<b>✨ Clean Code Advocate</b>
-<br/><br/>
-Committed to writing maintainable, well-documented code following best practices
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<br/><br/>
-<b>🎨 UI/UX Focused</b>
-<br/><br/>
-Strong eye for design and user experience, creating intuitive interfaces
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-<br/><br/>
-<b>📈 Growth Mindset</b>
-<br/><br/>
-Constantly learning through personal projects, courses, and community engagement
+Experienced in collaborative development
 </td>
 </tr>
 </table>
@@ -385,69 +346,7 @@ Constantly learning through personal projects, courses, and community engagement
 
 <br/>
 
-## 🎯 Development Roadmap
-
-<div align="center">
-
-```mermaid
-graph TB
-    A[Current Expertise] --> B[Full Stack Development]
-    A --> C[AI/ML Integration]
-    
-    B --> D[Advanced React Patterns]
-    B --> E[System Design]
-    B --> F[Microservices]
-    
-    C --> G[Deep Learning]
-    C --> H[Computer Vision]
-    
-    D --> I[Cloud Architecture]
-    E --> I
-    F --> I
-    G --> I
-    H --> I
-    
-    I --> J[Senior Developer]
-    
-    style A fill:#61dafb,stroke:#333,color:#000
-    style B fill:#43853d,stroke:#333,color:#fff
-    style C fill:#ff6f00,stroke:#333,color:#fff
-    style D fill:#563d7c,stroke:#333,color:#fff
-    style E fill:#2496ed,stroke:#333,color:#fff
-    style F fill:#ff6c37,stroke:#333,color:#fff
-    style G fill:#d00000,stroke:#333,color:#fff
-    style H fill:#5c3ee8,stroke:#333,color:#fff
-    style I fill:#ffd700,stroke:#333,color:#000
-    style J fill:#ff69b4,stroke:#333,color:#fff
-```
-
-</div>
-
-### 🎯 Short-term Goals (3-6 months)
-- 🔥 Master advanced React patterns (Compound Components, Render Props, Custom Hooks)
-- 🏗️ Deepen understanding of system design and scalable architectures
-- 🌐 Build and deploy production-grade full-stack applications
-- 🤝 Contribute to open-source projects and build community presence
-
-### 🚀 Long-term Goals (1-2 years)
-- 💼 Secure a position as a Senior Full-Stack Developer
-- 🎓 Master cloud technologies (AWS/Azure/GCP)
-- 📚 Mentor junior developers and share knowledge through tech blogs
-- 🏆 Build impactful products that solve real-world problems
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ferhatolmez&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="98%"/>
-
-</div>
-
-<br/>
-
-## 📬 Let's Connect & Collaborate!
+## 📬 Let's Connect!
 
 <div align="center">
 
@@ -455,7 +354,7 @@ graph TB
 
 <br/><br/>
 
-### 💼 **Open to Full-Stack & Backend Developer Opportunities**
+### 💼 Open to Full-Stack & Backend Developer Opportunities
 
 <br/>
 
@@ -463,19 +362,13 @@ graph TB
 <a href="mailto:ferology1317@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ferhat-ölmez-460555363">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;
 <a href="https://github.com/ferhatolmez">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 </p>
-
-<br/>
-
-### 💭 *"First, solve the problem. Then, write the code."* – John Johnson
 
 <br/>
 
@@ -484,10 +377,6 @@ graph TB
 <br/>
 
 **⭐️ From [Ferhat Ölmez](https://github.com/ferhatolmez) | Made with ❤️ in Istanbul, Turkey 🇹🇷**
-
-<br/>
-
-*If you like my work, consider giving a ⭐ to my repositories!*
 
 </div>
 

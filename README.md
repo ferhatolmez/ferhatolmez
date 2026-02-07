@@ -25,8 +25,6 @@
 
 ## 🚀 About Me
 
-<div align="center">
-
 ```typescript
 const ferhat: Developer = {
     location: "Istanbul, Turkey 🇹🇷",
@@ -62,8 +60,6 @@ const ferhat: Developer = {
     openToWork: true
 };
 ```
-
-</div>
 
 <br/>
 
@@ -294,13 +290,13 @@ const ferhat: Developer = {
 
 <div align="center">
   
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ferhatolmez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ferhatolmez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="Ferhat's GitHub Stats" />
 
-<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=ferhatolmez&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff" />
+<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=ferhatolmez&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff" alt="Ferhat's Streak Stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatolmez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatolmez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=ferhatolmez&limit=5&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ferhatolmez&theme=tokyonight&utcOffset=3" alt="Productive Time" />
 
 </div>
 
@@ -310,7 +306,7 @@ const ferhat: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ferhatolmez&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ferhatolmez&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" width="98%" alt="Contribution Graph"/>
 
 </div>
 
@@ -446,18 +442,6 @@ graph TB
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=ferhatolmez&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="98%"/>
-
-</div>
-
-<br/>
-
-## 🔥 Recent Activity
-
-<div align="center">
-
-<!--START_SECTION:activity-->
-<!-- This section will be automatically updated -->
-<!--END_SECTION:activity-->
 
 </div>
 

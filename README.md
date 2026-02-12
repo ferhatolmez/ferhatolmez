@@ -33,12 +33,6 @@ const ferhat: Developer = {
         university: "Atatürk University",
         graduation: "2025"
     },
-    workExperience: {
-        role: "Software Engineering Intern",
-        company: "ATA BAUM",
-        period: "Feb 2025 - Jun 2025",
-        location: "Erzurum, Turkey"
-    },
     code: ["JavaScript", "TypeScript", "Python", "PHP"],
     technologies: {
         frontEnd: {

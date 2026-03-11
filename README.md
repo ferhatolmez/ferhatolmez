@@ -43,16 +43,12 @@ const ferhat: Developer = {
         backEnd: {
             js: ["Node.js", "Express"],
             php: ["Laravel"],
-            python: ["TensorFlow", "ML Libraries"]
+            python: ["TensorFlow"]
         },
-        databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        tools: ["Git", "GitHub", "Postman", "Docker"],
+        databases: ["MongoDB", "PostgreSQL"],
+        tools: ["Git", "GitHub", "Docker"],
         currentlyLearning: ["System Design", "Cloud Architecture", "DevOps"]
-    },
-    architecture: ["REST APIs", "MVC", "Microservices"],
-    currentFocus: "Building scalable full-stack applications with clean architecture",
-    openToWork: true
-};
+    };
 ```
 
 <br/>
@@ -81,14 +77,12 @@ const ferhat: Developer = {
 ### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### AI/ML & Other
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 

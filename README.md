@@ -30,36 +30,11 @@
 
 <br/><br/>
 
-## ✦ Core Philosophy
-
-Minimalist principles that guide my architecture and development process.
-
-<br/>
-
-<table width="100%" border="0">
-  <tr>
-    <td width="33%" valign="top">
-      <b>1. SOLID & Clean Code</b><br/>
-      <sub>Maintainability is the first priority. I write code that humans can read and machines can execute efficiently.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>2. Domain-Driven Design</b><br/>
-      <sub>Business logic should dictate the architecture, not the framework. Technologies change, the domain persists.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>3. Performance First</b><br/>
-      <sub>Especially in WebRTC and AI, milliseconds matter. I engineer solutions where high throughput meets low latency.</sub>
-    </td>
-  </tr>
-</table>
-
-<br/><br/>
-
 ## ✦ Developer Terminal
 
 <div align="center">
   <a href="https://github.com/ferhatolmez">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1000&color=24292E&background=F6F8FA&center=false&vCenter=true&multiline=true&repeat=false&width=750&height=180&lines=%3E+ferhat+--fetch-profile;%7B;++%22name%22%3A+%22Ferhat+%C3%96lmez%22%2C;++%22role%22%3A+%22Software+Engineer+%26+Architect%22%2C;++%22focus%22%3A+%5B%22WebRTC%22%2C+%22Deep+Learning%22%2C+%22Cloud+Architecture%22%5D%2C;++%22location%22%3A+%22Istanbul%2C+Turkey+%F0%9F%87%B9%F0%9F%87%B7%22%2C;++%22mission%22%3A+%22Building+systems+that+solve+real+problems.%22;%7D" alt="Terminal Simulation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1000&color=24292E&background=F6F8FA&center=false&vCenter=true&multiline=true&repeat=false&width=750&height=180&lines=%3E+ferhat+--fetch-cv;%7B;++%22education%22%3A+%22BSc+Software+Engineering%2C+Atat%C3%BCrk+Uni+%282025%29%22%2C;++%22stack%22%3A+%5B%22C%23%22%2C+%22React%22%2C+%22Node.js%22%2C+%22Python%22%5D%2C;++%22learning%22%3A+%5B%22System+Design%22%2C+%22Cloud+Arch%22%2C+%22DevOps%22%5D%2C;++%22location%22%3A+%22Istanbul%2C+Turkey+%F0%9F%87%B9%F0%9F%87%B7%22;%7D" alt="Terminal Simulation" />
   </a>
 </div>
 

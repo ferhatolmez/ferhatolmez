@@ -118,15 +118,15 @@ Minimalist overview of the primary tools and languages I use in production.
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,python,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,py,php&theme=dark" />
 </a>
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,nodejs,express,laravel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,nodejs,express,laravel,dotnet&theme=dark" />
 </a>
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,docker,mongodb,postgres,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,mongodb,postgres,mysql,docker,git,github,postman&theme=dark" />
 </a>
 
 </div>

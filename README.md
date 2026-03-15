@@ -16,22 +16,7 @@
      Crafting robust systems, from real-time communication platforms to AI-driven healthcare solutions. <br/> Currently focused on WebRTC, Deep Learning, and scalable Cloud Architectures.
   </p>
 
-  <br/>
 
-  <table>
-    <tr>
-      <td>🔭 <b>Currently working on:</b> </td>
-      <td>Advanced WebRTC & P2P Video Architectures</td>
-    </tr>
-    <tr>
-      <td>🌱 <b>Currently learning:</b> </td>
-      <td>System Design, Kubernetes, Advanced Cloud DevOps</td>
-    </tr>
-    <tr>
-      <td>💬 <b>Ask me about:</b> </td>
-      <td>.NET Core, React, Computer Vision, SignalR</td>
-    </tr>
-  </table>
 
   <br/>
 
@@ -175,11 +160,7 @@ Minimalist overview of the primary tools and languages I use in production.
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ferhatolmez&theme=transparent&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
-</div>
-
-<br/><br/>
+<br/>
 
 ---
 

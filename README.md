@@ -126,7 +126,7 @@ Minimalist overview of the primary tools and languages I use in production.
 </a>
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=tensorflow,mongodb,postgres,mysql,docker,git,github,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,mongodb,postgres,mysql,docker,git,github,gitlab,postman&theme=dark" />
 </a>
 
 </div>

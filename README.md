@@ -34,7 +34,7 @@
 
 <div align="center">
   <a href="https://github.com/ferhatolmez">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1000&color=24292E&background=F6F8FA&center=false&vCenter=true&multiline=true&repeat=false&width=750&height=180&lines=%3E+ferhat+--fetch-cv;%7B;++%22role%22%3A+%22Junior+Full+Stack+Developer%22%2C;++%22education%22%3A+%22BSc+Software+Engineering%2C+Atat%C3%BCrk+Uni+%282025%29%22%2C;++%22stack%22%3A+%5B%22React%22%2C+%22Next.js%22%2C+%22Node.js%22%2C+%22MongoDB%22%5D%2C;++%22base%22%3A+%22Istanbul%2C+Turkey+%F0%9F%87%B9%F0%9F%87%B7%22;%7D" alt="Terminal Simulation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1000&color=24292E&background=F6F8FA&center=false&vCenter=true&multiline=true&repeat=false&width=750&height=220&lines=%3E+ferhat+--fetch-cv;%7B;++%22role%22%3A+%22Junior+Full+Stack+Developer%22%2C;++%22focus%22%3A+%22Modern+Web+Apps+%26+RESTful+APIs%22%2C;++%22stack%22%3A+%5B%22React%22%2C+%22Next.js%22%2C+%22Node.js%22%2C+%22MongoDB%22%5D%2C;++%22education%22%3A+%22BSc+Software+Engineering+%282025%29%22%2C;++%22fun_fact%22%3A+%22Debugging+like+a+detective+solves+crimes+%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F%22;%7D" alt="Terminal Simulation" />
   </a>
 </div>
 

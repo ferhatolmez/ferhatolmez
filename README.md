@@ -1,469 +1,251 @@
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
+<!--                     FERHAT ÖLMEZ                         -->
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
+
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    🌊 ANIMATED HEADER                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Ferhat%20Ölmez&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18"/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%9A%80+Building+the+Future+with+Code;%F0%9F%A7%A0+Passionate+about+AI+%26+Machine+Learning;%E2%9C%A8+Turning+Ideas+into+Digital+Reality" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6C63FF&height=220&section=header&text=&fontSize=0" width="100%"/>
 
 <br/>
 
-<p>
-  <a href="mailto:ferology1317@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ferhat-ölmez-460555363">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/ferhatolmez">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <img src="https://img.shields.io/badge/📍_Istanbul,_Turkey-FF6B6B?style=for-the-badge" alt="Location"/>
-  <img src="https://komarev.com/ghpvc/?username=ferhatolmez&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-</p>
+<a href="https://github.com/ferhatolmez">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Hey%2C+I'm+Ferhat+%C3%96lmez+%F0%9F%91%8B;Software+Engineer+from+Istanbul" alt="Typing SVG" />
+</a>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br/>
+
+<a href="mailto:ferology1317@gmail.com"><img src="https://img.shields.io/badge/ferology1317@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ferhat-ölmez-460555363"><img src="https://img.shields.io/badge/Ferhat_Ölmez-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=ferhatolmez&color=6C63FF&style=flat&label=visitors" />
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    👨‍💻 ABOUT ME                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> &nbsp;About Me
+### 🧑‍💻 &nbsp;About
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"/>
+Software engineering graduate from **Atatürk University** (2025). I build real-time communication systems, AI-powered applications, and full-stack web platforms. Currently focused on **WebRTC**, **computer vision**, and **cloud architecture**.
 
-<br/>
+I like shipping things — most of my projects have **live demos**.
 
-- 🎓 &nbsp;**BSc in Software Engineering** — Atatürk University *(2025)*
-- 🌍 &nbsp;Based in **Istanbul, Turkey** 🇹🇷
-- 🔭 &nbsp;Currently building a **[WebRTC Video Communication Platform](https://github.com/ferhatolmez/WebRTCProjesi)** with C#/.NET & JavaScript
-- 🧠 &nbsp;Passionate about **AI/ML** — built chest disease detection from X-Ray using deep learning
-- 🏥 &nbsp;Developed a **clinical tracking system** for postpartum care with Laravel
-- ☁️ &nbsp;Learning **System Design, Cloud Architecture & DevOps**
-- ⚡ &nbsp;Fun fact: I debug code like a detective solves crimes 🕵️
-- 📫 &nbsp;Reach me at **ferology1317@gmail.com**
+---
 
-<br/><br/><br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    🧬 DEVELOPER DNA                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<details>
-<summary><b>🧬 &nbsp;Developer DNA — Click to Expand</b></summary>
-<br/>
-
-```typescript
-class SoftwareEngineer {
-    readonly name = "Ferhat Ölmez";
-    readonly role = "Full Stack Developer & AI Enthusiast";
-    readonly location = "Istanbul, Turkey 🇹🇷";
-    
-    private skills = {
-        languages:    ["TypeScript", "JavaScript", "Python", "PHP", "C#"],
-        frontend:     ["React", "Next.js", "Redux", "TailwindCSS", "HTML5/CSS3"],
-        backend:      ["Node.js", "Express", "Laravel", "ASP.NET"],
-        ai_ml:        ["TensorFlow", "Computer Vision", "Deep Learning"],
-        databases:    ["MongoDB", "PostgreSQL", "Firebase", "SQL Server"],
-        devops:       ["Docker", "Git", "GitHub Actions", "CI/CD"],
-        realtime:     ["WebRTC", "WebSockets", "SignalR"],
-        architecture: ["REST APIs", "Microservices", "MVC", "Clean Architecture"]
-    };
-
-    get passion(): string {
-        return "Transforming complex problems into elegant, scalable solutions 🚀";
-    }
-}
-```
-
-</details>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    🛠️ TECH STACK                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30" /> &nbsp;Tech Arsenal
-
-<div align="center">
+### 🔨 &nbsp;What I've Built
 
 <table>
+<thead>
 <tr>
-<td valign="top" width="33%">
+<th>Project</th>
+<th>Stack</th>
+<th>What it does</th>
+<th>Links</th>
+</tr>
+</thead>
+<tbody>
 
-### 🎨 Frontend
+<tr>
+<td><b>🎥 WebRTC Video Platform</b></td>
+<td>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/WebRTC-333?style=flat-square&logo=webrtc&logoColor=white" />
+<img src="https://img.shields.io/badge/SignalR-0078D4?style=flat-square" />
+</td>
+<td>Cross-platform P2P video calling with Windows native client + glassmorphic web UI. VP8 codec, SIPSorcery, hybrid video architecture.</td>
+<td>
+<a href="https://github.com/ferhatolmez/WebRTCProjesi">Code</a> · <a href="https://webrtcprojesi.onrender.com">Live</a>
+</td>
+</tr>
+
+<tr>
+<td><b>🫁 Chest Disease AI</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+</td>
+<td>Deep learning model that predicts chest diseases from X-Ray images. CNN-based classification for healthcare diagnostics.</td>
+<td>
+<a href="https://github.com/ferhatolmez/PredictionOfChestDiseaseFromX-Ray">Code</a>
+</td>
+</tr>
+
+<tr>
+<td><b>🏥 Clinical Tracking System</b></td>
+<td>
+<img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+</td>
+<td>Postpartum & newborn monitoring with auth, role-based access, dynamic forms, and automated PDF reports.</td>
+<td>
+<a href="https://github.com/ferhatolmez/LohusaVeBebekLaravel">Code</a> · <a href="https://lohusa-bebek-izlem.onrender.com/">Live</a>
+</td>
+</tr>
+
+<tr>
+<td><b>📱 MERN App</b></td>
+<td>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</td>
+<td>Full-stack MERN application with RESTful API, responsive design, deployed on Vercel.</td>
+<td>
+<a href="https://github.com/ferhatolmez/mernapp">Code</a> · <a href="https://mernapp-ecru.vercel.app">Live</a>
+</td>
+</tr>
+
+<tr>
+<td><b>🤖 Chat AI</b></td>
+<td>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
+</td>
+<td>AI-powered chat application with intelligent conversation engine and real-time messaging.</td>
+<td>
+<a href="https://github.com/ferhatolmez/chat-ai-project">Code</a> · <a href="https://chat-ai-app-black.vercel.app">Live</a>
+</td>
+</tr>
+
+<tr>
+<td><b>🏫 School Management</b></td>
+<td>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+</td>
+<td>Complete school management — students, teachers, courses, grades, admin dashboard.</td>
+<td>
+<a href="https://github.com/ferhatolmez/SchoolManagementSystem">Code</a>
+</td>
+</tr>
+
+<tr>
+<td><b>📊 AI Data Analysis</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+</td>
+<td>AI applications in sustainability — data analysis and machine learning research projects.</td>
+<td>
+<a href="https://github.com/ferhatolmez/Application-of-Artificial-Intelligence-in-the-Sustainable-Field">Code</a>
+</td>
+</tr>
+
+</tbody>
+</table>
+
+---
+
+### 🛠️ &nbsp;Tech Stack
+
 <div align="center">
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-</div>
-</td>
+**Backend & Real-Time**
 
-<td valign="top" width="33%">
-
-### ⚙️ Backend
-<div align="center">
-
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333?style=flat-square&logo=webrtc&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-0078D4?style=flat-square)
 
-</div>
-</td>
-
-<td valign="top" width="33%">
-
-### 🧠 AI/ML & DevOps
-<div align="center">
+**AI / ML**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333?style=flat-square&logo=webrtc&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Data & DevOps**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
-</td>
-</tr>
-</table>
 
-</div>
+---
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    🚀 FEATURED PROJECTS                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="30" /> &nbsp;Featured Projects
+### 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-<table>
-<tr>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ferhatolmez&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ferhatolmez&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=555555" />
 
-<td width="50%">
-<h3 align="center">🎥 WebRTC Video Communication</h3>
-<div align="center">
-<a href="https://github.com/ferhatolmez/WebRTCProjesi">
-<img src="https://img.shields.io/badge/🔗_View_Repository-6C63FF?style=for-the-badge" alt="Repo"/>
-</a>
-<a href="https://webrtcprojesi.onrender.com">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge" alt="Demo"/>
-</a>
 <br/><br/>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebRTC-333?style=flat-square&logo=webrtc&logoColor=white"/>
-<img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SIPSorcery-007ACC?style=flat-square"/>
-<br/><br/>
-<p>Cross-platform <b>P2P video calling & messaging</b> platform with glassmorphic web UI and Windows native desktop client. VP8 codec, hybrid video architecture, real-time signaling.</p>
-<img src="https://img.shields.io/github/stars/ferhatolmez/WebRTCProjesi?style=social" alt="Stars"/>
-<img src="https://img.shields.io/github/repo-size/ferhatolmez/WebRTCProjesi?style=flat-square&color=blue" alt="Size"/>
-</div>
-</td>
 
-<td width="50%">
-<h3 align="center">🫁 Chest Disease Prediction from X-Ray</h3>
-<div align="center">
-<a href="https://github.com/ferhatolmez/PredictionOfChestDiseaseFromX-Ray">
-<img src="https://img.shields.io/badge/🔗_View_Repository-6C63FF?style=for-the-badge" alt="Repo"/>
-</a>
-<br/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square"/>
-<br/><br/>
-<p><b>Deep learning model</b> that predicts chest diseases from X-Ray images using TensorFlow & computer vision. CNN-based image classification for healthcare diagnostics.</p>
-<img src="https://img.shields.io/github/stars/ferhatolmez/PredictionOfChestDiseaseFromX-Ray?style=social" alt="Stars"/>
-<img src="https://img.shields.io/github/repo-size/ferhatolmez/PredictionOfChestDiseaseFromX-Ray?style=flat-square&color=blue" alt="Size"/>
-</div>
-</td>
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatolmez&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" />
 
-</tr>
-
-<tr>
-
-<td width="50%">
-<h3 align="center">🏥 Postpartum Clinical Tracking</h3>
-<div align="center">
-<a href="https://github.com/ferhatolmez/LohusaVeBebekLaravel">
-<img src="https://img.shields.io/badge/🔗_View_Repository-6C63FF?style=for-the-badge" alt="Repo"/>
-</a>
-<a href="https://lohusa-bebek-izlem.onrender.com/">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge" alt="Demo"/>
-</a>
 <br/><br/>
-<img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/DomPDF-FF2D20?style=flat-square"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-<br/><br/>
-<p><b>Clinical tracking & PDF reporting</b> app for postpartum and newborn baby monitoring. Full authentication, role-based access, dynamic forms, and automated report generation.</p>
-<img src="https://img.shields.io/github/stars/ferhatolmez/LohusaVeBebekLaravel?style=social" alt="Stars"/>
-<img src="https://img.shields.io/github/repo-size/ferhatolmez/LohusaVeBebekLaravel?style=flat-square&color=blue" alt="Size"/>
-</div>
-</td>
 
-<td width="50%">
-<h3 align="center">📱 MERN Stack Application</h3>
-<div align="center">
-<a href="https://github.com/ferhatolmez/mernapp">
-<img src="https://img.shields.io/badge/🔗_View_Repository-6C63FF?style=for-the-badge" alt="Repo"/>
-</a>
-<a href="https://mernapp-ecru.vercel.app">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge" alt="Demo"/>
-</a>
-<br/><br/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<br/><br/>
-<p><b>Full-stack MERN web application</b> deployed on Vercel. Modern UI/UX with responsive design, RESTful API, and MongoDB database integration.</p>
-<img src="https://img.shields.io/github/stars/ferhatolmez/mernapp?style=social" alt="Stars"/>
-<img src="https://img.shields.io/github/repo-size/ferhatolmez/mernapp?style=flat-square&color=blue" alt="Size"/>
-</div>
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-<h3 align="center">🏫 School Management System</h3>
-<div align="center">
-<a href="https://github.com/ferhatolmez/SchoolManagementSystem">
-<img src="https://img.shields.io/badge/🔗_View_Repository-6C63FF?style=for-the-badge" alt="Repo"/>
-</a>
-<br/><br/>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-<br/><br/>
-<p><b>Complete school management system</b> built with C#/.NET. Student/teacher management, course scheduling, grade tracking, and administrative dashboard.</p>
-<img src="https://img.shields.io/github/stars/ferhatolmez/SchoolManagementSystem?style=social" alt="Stars"/>
-<img src="https://img.shields.io/github/repo-size/ferhatolmez/SchoolManagementSystem?style=flat-square&color=blue" alt="Size"/>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">🤖 Chat AI Application</h3>
-<div align="center">
-<a href="https://github.com/ferhatolmez/chat-ai-project">
-<img src="https://img.shields.io/badge/🔗_View_Repository-6C63FF?style=for-the-badge" alt="Repo"/>
-</a>
-<a href="https://chat-ai-app-black.vercel.app">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge" alt="Demo"/>
-</a>
-<br/><br/>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white"/>
-<br/><br/>
-<p><b>AI-powered chat application</b> with intelligent conversation capabilities. Real-time messaging interface deployed on Vercel.</p>
-<img src="https://img.shields.io/github/stars/ferhatolmez/chat-ai-project?style=social" alt="Stars"/>
-<img src="https://img.shields.io/github/repo-size/ferhatolmez/chat-ai-project?style=flat-square&color=blue" alt="Size"/>
-</div>
-</td>
-
-</tr>
-</table>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ferhatolmez&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true" />
 
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    📊 GITHUB ANALYTICS                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c328-4571-a8cf-9de6eb83271f.png" width="30" /> &nbsp;GitHub Analytics
+### 🐍 &nbsp;Contributions
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ferhatolmez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ferhatolmez&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatolmez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10" alt="Top Languages"/>
-
-<br/><br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ferhatolmez&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Contribution Graph"/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    🏆 TROPHIES                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ferhatolmez&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="98%"/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    💡 WHAT DRIVES ME                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-461a-a437-8b9a820b178a.png" width="30" /> &nbsp;What Drives Me
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
-<br/><br/>
-<b>🎯 Problem Solver</b>
-<br/><br/>
-<sub>Built a WebRTC video platform from scratch, solving complex real-time P2P challenges</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
-<br/><br/>
-<b>🚀 Multi-Stack Dev</b>
-<br/><br/>
-<sub>Shipping production apps in C#, JavaScript, Python, PHP — from desktop to web to AI</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
-<br/><br/>
-<b>🤝 Ship & Deploy</b>
-<br/><br/>
-<sub>Multiple live projects on Vercel & Render — real users, real impact, real systems</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="80">
-<br/><br/>
-<b>🧠 AI Explorer</b>
-<br/><br/>
-<sub>Applying deep learning to healthcare — predicting chest diseases from X-Ray images</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    🐍 CONTRIBUTION SNAKE                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4c6d9a024c32.gif" width="30" /> &nbsp;Contribution Snake
-
-<div align="center">
-
-<p><sub>🐍 Watch the snake eat my contributions! Auto-generated every 6 hours via GitHub Actions</sub></p>
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ferhatolmez/ferhatolmez/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ferhatolmez/ferhatolmez/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ferhatolmez/ferhatolmez/output/github-snake-dark.svg" width="100%" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ferhatolmez/ferhatolmez/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-<br/>
-
-<details>
-<summary><b>🌊 Ocean Theme Snake — Click to Expand</b></summary>
-<br/>
-<img src="https://raw.githubusercontent.com/ferhatolmez/ferhatolmez/output/ocean-snake.svg" alt="Ocean Snake" width="100%" />
-</details>
-
-<br/>
-
-<a href="https://github.com/ferhatolmez/ferhatolmez/actions/workflows/snake.yml">
-<img src="https://img.shields.io/github/actions/workflow/status/ferhatolmez/ferhatolmez/snake.yml?label=🐍%20Snake%20Generator&style=flat-square&color=6C63FF" alt="Snake Workflow"/>
-</a>
+<sub>Auto-generated every 6h via <a href="https://github.com/ferhatolmez/ferhatolmez/actions/workflows/snake.yml">GitHub Actions</a></sub>
 
 </div>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    📬 CONNECT                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37c7-4a58-8430-315ec6961b2a.gif" width="30" /> &nbsp;Let's Build Something Amazing Together
+---
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
-
-<br/><br/>
-
-### 💼 Open to Full-Stack, Backend & AI/ML Developer Opportunities
-
-<br/>
-
-<p>
-<a href="mailto:ferology1317@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ferhat-ölmez-460555363">
-<img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/ferhatolmez">
-<img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-</p>
-
-<br/>
-
-```
-  ╔═══════════════════════════════════════════════════════════════╗
-  ║                                                               ║
-  ║   💬  "First, solve the problem. Then, write the code."       ║
-  ║        — John Johnson                                         ║
-  ║                                                               ║
-  ╚═══════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<img src="https://img.shields.io/badge/⭐_If_you_like_my_work,_consider_giving_a_star!-FFD700?style=for-the-badge" alt="Star"/>
-
-<br/><br/>
-
-**Made with ❤️ and ☕ by [Ferhat Ölmez](https://github.com/ferhatolmez) in Istanbul, Turkey 🇹🇷**
+<img src="https://github-profile-trophy.vercel.app/?username=ferhatolmez&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" width="98%" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
+---
+
+<div align="center">
+
+📫 **Let's connect** — I'm open to **full-stack**, **backend**, and **AI/ML** opportunities.
+
+<br/>
+
+<a href="mailto:ferology1317@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ferhat-ölmez-460555363"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/ferhatolmez"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<sub>Made with ☕ in Istanbul 🇹🇷</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6C63FF&height=100&section=footer" width="100%"/>

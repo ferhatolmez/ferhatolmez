@@ -8,12 +8,12 @@
   
   <p align="center">
     <a href="https://github.com/ferhatolmez">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=586069&center=true&vCenter=true&width=500&height=40&lines=Software+Engineer;System+Architect;AI+%26+Deep+Learning+Enthusiast" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=586069&center=true&vCenter=true&width=600&height=40&lines=Junior+Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Passionate+about+Clean+Code+%26+Continuous+Growth" alt="Typing SVG" />
     </a>
   </p>
 
   <p align="center">
-     Crafting robust systems, from real-time communication platforms to AI-driven healthcare solutions. <br/> Currently focused on WebRTC, Deep Learning, and scalable Cloud Architectures.
+     Software Engineering graduate building modern, user-focused web interfaces and RESTful APIs. <br/> Focusing on real-world problem solving, seamless UI/UX, and mastering full-stack JavaScript environments.
   </p>
 
 
@@ -34,7 +34,7 @@
 
 <div align="center">
   <a href="https://github.com/ferhatolmez">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1000&color=24292E&background=F6F8FA&center=false&vCenter=true&multiline=true&repeat=false&width=750&height=180&lines=%3E+ferhat+--fetch-cv;%7B;++%22education%22%3A+%22BSc+Software+Engineering%2C+Atat%C3%BCrk+Uni+%282025%29%22%2C;++%22stack%22%3A+%5B%22C%23%22%2C+%22React%22%2C+%22Node.js%22%2C+%22Python%22%5D%2C;++%22learning%22%3A+%5B%22System+Design%22%2C+%22Cloud+Arch%22%2C+%22DevOps%22%5D%2C;++%22location%22%3A+%22Istanbul%2C+Turkey+%F0%9F%87%B9%F0%9F%87%B7%22;%7D" alt="Terminal Simulation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1000&color=24292E&background=F6F8FA&center=false&vCenter=true&multiline=true&repeat=false&width=750&height=180&lines=%3E+ferhat+--fetch-cv;%7B;++%22role%22%3A+%22Junior+Full+Stack+Developer%22%2C;++%22education%22%3A+%22BSc+Software+Engineering%2C+Atat%C3%BCrk+Uni+%282025%29%22%2C;++%22stack%22%3A+%5B%22React%22%2C+%22Next.js%22%2C+%22Node.js%22%2C+%22MongoDB%22%5D%2C;++%22base%22%3A+%22Istanbul%2C+Turkey+%F0%9F%87%B9%F0%9F%87%B7%22;%7D" alt="Terminal Simulation" />
   </a>
 </div>
 

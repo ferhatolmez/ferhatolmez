@@ -2,24 +2,58 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
+    - cron: "0 */6 * * *" # Runs every 6 hours for fresh data
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
-      - uses: Platane/snk@v3
+      # ═══════════════════════════════════════════════
+      # 🐍 Classic Snake — Light Theme
+      # ═══════════════════════════════════════════════
+      - name: Generate Snake (Light)
+        uses: Platane/snk@v3
         with:
           github_user_name: ferhatolmez
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.gif
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      # ═══════════════════════════════════════════════
+      # 🌙 Dark Snake — GitHub Dark Palette
+      # ═══════════════════════════════════════════════
+      - name: Generate Snake (Dark)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ferhatolmez
+          outputs: |
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.gif?palette=github-dark
+
+      # ═══════════════════════════════════════════════
+      # 🌊 Ocean Snake — Custom Color Palette
+      # ═══════════════════════════════════════════════
+      - name: Generate Snake (Ocean)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ferhatolmez
+          outputs: |
+            dist/ocean-snake.svg?color_snake=0077B5&color_dots=#0D1117,#161B22,#0e4429,#006d32,#26a641,#39d353
+
+      # ═══════════════════════════════════════════════
+      # 📤 Deploy all generated files to output branch
+      # ═══════════════════════════════════════════════
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist

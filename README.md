@@ -383,13 +383,33 @@ class SoftwareEngineer {
 <!--                    🐍 CONTRIBUTION SNAKE                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+## <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4c6d9a024c32.gif" width="30" /> &nbsp;Contribution Snake
+
 <div align="center">
+
+<p><sub>🐍 Watch the snake eat my contributions! Auto-generated every 6 hours via GitHub Actions</sub></p>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ferhatolmez/ferhatolmez/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ferhatolmez/ferhatolmez/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ferhatolmez/ferhatolmez/output/github-snake-dark.svg" width="100%" />
 </picture>
+
+<br/>
+
+<details>
+<summary><b>🌊 Ocean Theme Snake — Click to Expand</b></summary>
+<br/>
+<img src="https://raw.githubusercontent.com/ferhatolmez/ferhatolmez/output/ocean-snake.svg" alt="Ocean Snake" width="100%" />
+</details>
+
+<br/>
+
+<a href="https://github.com/ferhatolmez/ferhatolmez/actions/workflows/snake.yml">
+<img src="https://img.shields.io/github/actions/workflow/status/ferhatolmez/ferhatolmez/snake.yml?label=🐍%20Snake%20Generator&style=flat-square&color=6C63FF" alt="Snake Workflow"/>
+</a>
 
 </div>
 

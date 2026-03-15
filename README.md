@@ -30,6 +30,41 @@
 
 <br/><br/>
 
+## ✦ Core Philosophy
+
+Minimalist principles that guide my architecture and development process.
+
+<br/>
+
+<table width="100%" border="0">
+  <tr>
+    <td width="33%" valign="top">
+      <b>1. SOLID & Clean Code</b><br/>
+      <sub>Maintainability is the first priority. I write code that humans can read and machines can execute efficiently.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>2. Domain-Driven Design</b><br/>
+      <sub>Business logic should dictate the architecture, not the framework. Technologies change, the domain persists.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>3. Performance First</b><br/>
+      <sub>Especially in WebRTC and AI, milliseconds matter. I engineer solutions where high throughput meets low latency.</sub>
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
+## ✦ Developer Terminal
+
+<div align="center">
+  <a href="https://github.com/ferhatolmez">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1000&color=24292E&background=F6F8FA&center=false&vCenter=true&multiline=true&repeat=false&width=750&height=180&lines=%3E+ferhat+--fetch-profile;%7B;++%22name%22%3A+%22Ferhat+%C3%96lmez%22%2C;++%22role%22%3A+%22Software+Engineer+%26+Architect%22%2C;++%22focus%22%3A+%5B%22WebRTC%22%2C+%22Deep+Learning%22%2C+%22Cloud+Architecture%22%5D%2C;++%22location%22%3A+%22Istanbul%2C+Turkey+%F0%9F%87%B9%F0%9F%87%B7%22%2C;++%22mission%22%3A+%22Building+systems+that+solve+real+problems.%22;%7D" alt="Terminal Simulation" />
+  </a>
+</div>
+
+<br/><br/>
+
 ## ✦ Selected Works
 
 A curated list of projects I've built, emphasizing clean architecture, real-time performance, and modern UI/UX.
@@ -163,6 +198,14 @@ Minimalist overview of the primary tools and languages I use in production.
 <br/>
 
 ---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&height=20&lines=Only+those+who+code+in+the+dark+can+read+this...+%F0%9F%A6%87" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&pause=1000&color=FFFFFF00&center=true&vCenter=true&width=500&height=20&lines=" />
+    <img alt="easter egg" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&pause=1000&color=FFFFFF00&center=true&vCenter=true&width=500&height=20&lines=" />
+  </picture>
+</div>
 
 <p align="center">
   <sub><b>"First, solve the problem. Then, write the code."</b> — John Johnson</sub>

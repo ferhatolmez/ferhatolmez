@@ -1,279 +1,417 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--            FERHAT ÖLMEZ · GITHUB PROFILE README                   -->
-<!--        Transmission Origin: Istanbul · 41°0′N 28°57′E             -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ░  TRANSMISSION ORIGIN  :  SECTOR Ω-7 · ISTANBUL NODE          -->
+<!-- ░  SIGNAL TYPE          :  NEURAL PROFILE BROADCAST             -->
+<!-- ░  ENCRYPTION           :  TRILITHIUM CLASS-V                   -->
+<!-- ░  RECIPIENT            :  ALL CONNECTED SYSTEMS                -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=%E2%96%93%20SIGNAL%20ACQUIRED%20%E2%96%93&fontSize=58&fontColor=00FFFF&animation=twinkling&fontAlignY=40&desc=%5B%20FERHAT%20%C3%96LMEZ%20%E2%80%94%20FULL%20STACK%20DEVELOPER%20%E2%80%94%20ISTANBUL%20NODE%20%5D&descSize=16&descColor=ffffff&descAlignY=62" />
+
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,40:0A1628,100:0D1117&height=240&section=header&text=FERHAT%20%C3%96LMEZ&fontSize=72&fontColor=E6EDF3&fontAlign=27&fontAlignY=48&desc=%E2%A7%97%20Full%20Stack%20Developer%20%E2%80%94%20Istanbul%2C%20Turkey%20%E2%A7%97&descFontColor=58A6FF&descSize=17&descAlign=27&descAlignY=67&animation=fadeIn" width="100%"/>
+
+<a href="https://github.com/ferhatolmez">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=15&pause=500&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%E2%96%BA+ALIEN+INTELLIGENCE+NETWORK+DETECTED+A+HUMAN+DEVELOPER...;%E2%96%BA+SCANNING+NEURAL+PATHWAYS+%E2%80%94+KNOWLEDGE+MAP+COMPLETE;%E2%96%BA+VERDICT%3A+THIS+ONE+IS+WORTH+TRANSMITTING+ACROSS+THE+COSMOS" />
+</a>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ferhatolmez">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=15&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=45&lines=%E2%9F%AB+Dispatching+signals+from+the+Bosphorus...;%E2%9F%AB+Stack%3A+React+%2F+Next.js+%2F+Node.js+%2F+MongoDB;%E2%9F%AB+Coordinates%3A+41.0082%C2%B0N+28.9784%C2%B0E+%5BIstanbul%5D;%E2%9F%AB+Status%3A+ONLINE+%E2%80%94+Ready+to+Build+%26+Deploy" alt="Typing SVG"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="mailto:ferology1317@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACT-ferology1317%40gmail.com-58A6FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/ferhat-ölmez-460555363/">
-    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ferhatolmez&color=58A6FF&style=for-the-badge&label=SIGNAL+REACH"/>
-</div>
-
-<br/><br/>
-
----
-
-## &nbsp;◈ &nbsp;IDENTITY MATRIX
-
-<br/>
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   AGENT          ::  Ferhat Ölmez                                    ║
-║   DESIGNATION    ::  Junior Full Stack Developer                     ║
-║   ORIGIN         ::  Istanbul, Turkey  [ 41°0′29″N  28°57′32″E ]    ║
-║   CLEARANCE      ::  Open to Opportunities                           ║
-║   EDUCATION      ::  BSc Software Engineering — Class of 2025        ║
-║   SPECIALIZATION ::  Modern Web Architecture & RESTful APIs          ║
-║   DIRECTIVE      ::  First, solve the problem. Then, write the code. ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════╗
+║  ◈ INTERGALACTIC DEVELOPER REGISTRY — ENTRY #F-0LMEZ-TR-2025           ║
+║  ◈ COORDINATES : 41.0082° N, 28.9784° E — ISTANBUL, THIRD ROCK         ║
+║  ◈ STATUS      : ██████████████████████████ FULLY OPERATIONAL           ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
-
-<br/>
-
-Positioned at the crossroads of continents, I engineer **digital bridges** — interfaces that feel native, APIs that breathe, and systems built to scale. My work draws from the same discipline that shaped Istanbul's skyline for centuries: **bold architecture, precise detail, and the courage to connect two worlds.**
-
-<br/><br/>
-
----
-
-## &nbsp;◈ &nbsp;TECHNICAL ARSENAL
-
-<br/>
-
-<div align="center">
-
-**`// LANGUAGES`**
-
-<img src="https://skillicons.dev/icons?i=js,ts,cs,py,php&theme=dark&perline=5"/>
-
-<br/><br/>
-
-**`// FRONTEND`**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux&theme=dark&perline=6"/>
-
-<br/><br/>
-
-**`// BACKEND & DATABASE`**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,laravel,mongodb,postgres,mysql&theme=dark&perline=7"/>
-
-<br/><br/>
-
-**`// AI & TOOLCHAIN`**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,docker,git,github,gitlab,postman&theme=dark&perline=6"/>
 
 </div>
 
-<br/><br/>
+<div align="center">
 
----
+<a href="mailto:ferology1317@gmail.com"><img src="https://img.shields.io/badge/⬡_NEURAL_LINK-ferology1317%40gmail.com-00FFFF?style=for-the-badge&labelColor=0A0E1A&color=0A0E1A&logo=gmail&logoColor=00FFFF" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ferhat-ölmez-460555363/"><img src="https://img.shields.io/badge/⬡_SOCIAL_NODE-LinkedIn-0A66C2?style=for-the-badge&labelColor=0A0E1A&color=0A0E1A&logo=linkedin&logoColor=0A66C2" /></a>
+&nbsp;
+<img src="https://img.shields.io/badge/⬡_SECTOR-Istanbul%20%F0%9F%87%B9%F0%9F%87%B7-FF6B35?style=for-the-badge&labelColor=0A0E1A&color=0A0E1A" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=ferhatolmez&style=for-the-badge&color=0A0E1A&label=⬡+PROBES+INTERCEPTED&labelColor=0A0E1A" />
 
-## &nbsp;◈ &nbsp;ACTIVE OPERATIONS
-
-*A curated transmission log — missions that defined my craft.*
+</div>
 
 <br/>
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left">&nbsp;◉ OPERATION</th>
-      <th align="left">&nbsp;◉ CLASSIFIED SUMMARY</th>
-      <th align="left">&nbsp;◉ TECH SIGNATURE</th>
-      <th align="center">◉ STATUS</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <b>🎥 PROTOCOL: WEBRTC</b><br/>
-        <sub><a href="https://webrtcprojesi.onrender.com">webrtcprojesi.onrender.com</a></sub>
-      </td>
-      <td>Cross-platform P2P video calling and encrypted messaging infrastructure. Dual architecture: browser client + native Windows app via SIPSorcery.</td>
-      <td><code>C#</code> <code>.NET 8</code> <code>WebRTC</code> <code>JS</code></td>
-      <td align="center"><img src="https://img.shields.io/badge/LIVE-3FB950?style=flat-square&logoColor=white"/></td>
-    </tr>
-    <tr>
-      <td colspan="4"><sub>───────────────────────────────────────────────────────────────────────</sub></td>
-    </tr>
-    <tr>
-      <td>
-        <b>🫁 OPERATION: X-RAY AI</b><br/>
-        <sub><a href="https://github.com/ferhatolmez/PredictionOfChestDiseaseFromX-Ray">View Repository</a></sub>
-      </td>
-      <td>Deep learning pipeline using CNNs for healthcare-grade diagnostics. Classifies chest pathologies directly from raw X-Ray imaging — no human pre-filtering.</td>
-      <td><code>Python</code> <code>TensorFlow</code> <code>OpenCV</code></td>
-      <td align="center"><img src="https://img.shields.io/badge/COMPLETE-58A6FF?style=flat-square&logoColor=white"/></td>
-    </tr>
-    <tr>
-      <td colspan="4"><sub>───────────────────────────────────────────────────────────────────────</sub></td>
-    </tr>
-    <tr>
-      <td>
-        <b>🏥 PROTOCOL: LOHUSA</b><br/>
-        <sub><a href="https://lohusa-bebek-izlem.onrender.com/">lohusa-bebek-izlem.onrender.com</a></sub>
-      </td>
-      <td>Full-scale postpartum clinical tracking system. Complex dynamic forms, role-based access control, and automated PDF reporting for medical personnel.</td>
-      <td><code>Laravel 12</code> <code>PHP 8</code> <code>MySQL</code></td>
-      <td align="center"><img src="https://img.shields.io/badge/LIVE-3FB950?style=flat-square&logoColor=white"/></td>
-    </tr>
-    <tr>
-      <td colspan="4"><sub>───────────────────────────────────────────────────────────────────────</sub></td>
-    </tr>
-    <tr>
-      <td>
-        <b>🏫 PROTOCOL: ACADEMIA</b><br/>
-        <sub><a href="https://github.com/ferhatolmez/SchoolManagementSystem">View Repository</a></sub>
-      </td>
-      <td>Enterprise school management architecture. Full student lifecycle tracking, course scheduling engine, and layered administrative dashboards.</td>
-      <td><code>C#</code> <code>.NET Core</code> <code>SQL Server</code></td>
-      <td align="center"><img src="https://img.shields.io/badge/COMPLETE-58A6FF?style=flat-square&logoColor=white"/></td>
-    </tr>
-    <tr>
-      <td colspan="4"><sub>───────────────────────────────────────────────────────────────────────</sub></td>
-    </tr>
-    <tr>
-      <td>
-        <b>⚡ OPERATION: MERN CORE</b><br/>
-        <sub><a href="https://mernapp-ecru.vercel.app">mernapp-ecru.vercel.app</a></sub>
-      </td>
-      <td>Production-ready full-stack MERN application. Responsive UI, hardened RESTful API layer, and scalable NoSQL data management — zero compromise.</td>
-      <td><code>React</code> <code>Node.js</code> <code>MongoDB</code></td>
-      <td align="center"><img src="https://img.shields.io/badge/LIVE-3FB950?style=flat-square&logoColor=white"/></td>
-    </tr>
-  </tbody>
+---
+
+## ⬡ &nbsp; `ENTITY SCAN — BIOLOGICAL + COGNITIVE PROFILE`
+
+<br/>
+
+<table width="100%" border="0">
+<tr>
+<td width="60%" valign="top">
+
+```
+╭──────────────────────────────────────────────────────╮
+│  SUBJECT PROFILE — DECODED FROM ISTANBUL UPLINK      │
+├──────────────────────────────────────────────────────┤
+│                                                       │
+│  DESIGNATION  ▸  Ferhat Ölmez                        │
+│  CLASS        ▸  Full Stack Developer [Junior]        │
+│  ORIGIN       ▸  Istanbul, Turkey 🇹🇷 — Sol System   │
+│  EDUCATION    ▸  BSc Software Engineering — 2025      │
+│                                                       │
+│  PRIMARY DIRECTIVE                                    │
+│  ▸ Craft interfaces humans actually want to use       │
+│  ▸ Build APIs that machines can trust                 │
+│  ▸ Ship products. Not prototypes.                     │
+│                                                       │
+│  THREAT LEVEL ▸  █████████░░ HIGHLY CAPABLE          │
+│  CURIOSITY    ▸  ██████████░ DANGEROUSLY HIGH         │
+│  COFFEE DEP.  ▸  ████████████ CRITICAL DEPENDENCY    │
+│                                                       │
+│  STATUS       ▸  🟢 TRANSMITTING — OPEN TO CONTACT   │
+│                                                       │
+╰──────────────────────────────────────────────────────╯
+```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+```
+    ◈ QUANTUM SKILL MATRIX ◈
+
+    FRONTEND  [██████████] 95%
+    BACKEND   [█████████░] 88%
+    DEVOPS    [███████░░░] 72%
+    AI / ML   [████████░░] 80%
+    DATABASES [████████░░] 82%
+    PROBLEM   [██████████] ∞%
+     SOLVING
+
+    ✦ PHILOSOPHY ✦
+  "First, solve the problem.
+    Then, write the code."
+       — John Johnson
+```
+
+</td>
+</tr>
 </table>
 
 <br/><br/>
 
 ---
 
-## &nbsp;◈ &nbsp;SIGNAL METRICS
+## ⬡ &nbsp; `MISSION ARCHIVES — COMPLETED CONSTRUCTS`
+
+<br/>
+
+> *The following projects were intercepted from the Istanbul Node and decoded for galactic review.*
+
+<br/>
+
+<table width="100%" border="0" cellpadding="12" cellspacing="0">
+
+<tr>
+<td colspan="2">
+<img src="https://img.shields.io/badge/MISSION__001-LIVE__IN__PRODUCTION-00FF41?style=for-the-badge&labelColor=0A0E1A&logo=statuspage&logoColor=00FF41" />
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎥 [WebRTC Video Platform](https://webrtcprojesi.onrender.com)
+
+> *Cross-dimensional P2P communication infrastructure*
+
+Hybrid peer-to-peer video calling & real-time messaging. Built a **native Windows desktop client** using SIPSorcery — bridging browser and OS-level communication into a single seamless system.
+
+`Complexity Score:` **★★★★★**
+
+</td>
+<td width="50%" valign="top" align="center">
+
+```
+TECH SIGNATURE DETECTED:
+┌─────────────────────────┐
+│  ⬡  C#          v12     │
+│  ⬡  .NET 8      Core    │
+│  ⬡  WebRTC      P2P     │
+│  ⬡  JavaScript  ES2024  │
+│  ⬡  SIPSorcery  VoIP    │
+└─────────────────────────┘
+```
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td colspan="2">
+<img src="https://img.shields.io/badge/MISSION__002-RESEARCH__&amp;__INTELLIGENCE-8B00FF?style=for-the-badge&labelColor=0A0E1A&logo=github&logoColor=8B00FF" />
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🫁 [Chest Disease AI Engine](https://github.com/ferhatolmez/PredictionOfChestDiseaseFromX-Ray)
+
+> *Deep learning neural scanner for biological diagnostics*
+
+Convolutional neural network pipeline classifying chest diseases directly from raw X-Ray imagery. End-to-end: preprocessing → augmentation → training → inference. Humanity-level impact.
+
+`Complexity Score:` **★★★★★**
+
+</td>
+<td width="50%" valign="top" align="center">
+
+```
+TECH SIGNATURE DETECTED:
+┌─────────────────────────┐
+│  ⬡  Python     3.11     │
+│  ⬡  TensorFlow 2.x      │
+│  ⬡  OpenCV     4.x      │
+│  ⬡  CNN        Deep     │
+│  ⬡  NumPy      Matrix   │
+└─────────────────────────┘
+```
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td colspan="2">
+<img src="https://img.shields.io/badge/MISSION__003-LIVE__IN__PRODUCTION-00FF41?style=for-the-badge&labelColor=0A0E1A&logo=statuspage&logoColor=00FF41" />
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 [Clinical Tracking System](https://lohusa-bebek-izlem.onrender.com/)
+
+> *Postpartum care monitoring — role-gated, PDF-armed*
+
+Full-scale clinical platform for postpartum monitoring. Dynamic forms, role-based access control, audit trails, and automated medical PDF reports. Ships real care to real humans.
+
+`Complexity Score:` **★★★★☆**
+
+</td>
+<td width="50%" valign="top" align="center">
+
+```
+TECH SIGNATURE DETECTED:
+┌─────────────────────────┐
+│  ⬡  Laravel     12      │
+│  ⬡  PHP         8.3     │
+│  ⬡  MySQL       8.0     │
+│  ⬡  Blade       Templates│
+│  ⬡  PDF Engine  DomPDF  │
+└─────────────────────────┘
+```
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td colspan="2">
+<img src="https://img.shields.io/badge/MISSION__004-ARCHITECTURE__STUDY-FFD700?style=for-the-badge&labelColor=0A0E1A&logo=github&logoColor=FFD700" />
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏫 [School Management Architecture](https://github.com/ferhatolmez/SchoolManagementSystem)
+
+> *Enterprise-grade academic lifecycle engine*
+
+Full institutional system: student lifecycles, course scheduling, grade management, administrative dashboards. Built for scale — not a demo.
+
+`Complexity Score:` **★★★★☆**
+
+</td>
+<td width="50%" valign="top" align="center">
+
+```
+TECH SIGNATURE DETECTED:
+┌─────────────────────────┐
+│  ⬡  C#          v12     │
+│  ⬡  .NET Core   8.0     │
+│  ⬡  SQL Server  2022    │
+│  ⬡  EF Core     ORM     │
+│  ⬡  MVC         Pattern │
+└─────────────────────────┘
+```
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td colspan="2">
+<img src="https://img.shields.io/badge/MISSION__005-LIVE__IN__PRODUCTION-00FF41?style=for-the-badge&labelColor=0A0E1A&logo=vercel&logoColor=00FF41" />
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ [Modern MERN Application](https://mernapp-ecru.vercel.app)
+
+> *Full-stack JavaScript singularity — one repo, two worlds*
+
+Production-ready MERN stack. Responsive React UI, secure Node/Express REST API, MongoDB. Deployed and live. The full-stack loop — closed.
+
+`Complexity Score:` **★★★☆☆**
+
+</td>
+<td width="50%" valign="top" align="center">
+
+```
+TECH SIGNATURE DETECTED:
+┌─────────────────────────┐
+│  ⬡  React       18      │
+│  ⬡  Node.js     20      │
+│  ⬡  Express     4.x     │
+│  ⬡  MongoDB     Atlas   │
+│  ⬡  JWT         Auth    │
+└─────────────────────────┘
+```
+
+</td>
+</tr>
+
+</table>
+
+<br/><br/>
+
+---
+
+## ⬡ &nbsp; `NEURAL INTERFACE — TECHNOLOGY MODULES`
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferhatolmez&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=3FB950&include_all_commits=true&rank_icon=github&border_radius=10" width="49%"/>
-  <img src="https://streak-stats.demolab.com/?user=ferhatolmez&theme=github-dark-blue&hide_border=true&stroke=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&border_radius=10" width="49%"/>
-</div>
 
-<br/>
+<sub><b>◈ &nbsp; LINGUISTIC CORES &nbsp; ◈</b></sub>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatolmez&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=8B949E&hide=jupyter%20notebook&langs_count=8&border_radius=10" width="42%"/>
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,py,php&theme=dark&perline=7" />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ferhatolmez&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-</div>
+<br/><br/>
 
-<br/>
+<sub><b>◈ &nbsp; FRAMEWORK ARSENAL &nbsp; ◈</b></sub>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ferhatolmez&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=3FB950&point=58A6FF&area=true&area_color=58A6FF" width="100%"/>
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,nodejs,express,laravel,dotnet&theme=dark&perline=8" />
+
+<br/><br/>
+
+<sub><b>◈ &nbsp; INFRASTRUCTURE & INTELLIGENCE &nbsp; ◈</b></sub>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,mongodb,postgres,mysql,docker,git,github,postman&theme=dark&perline=8" />
+
 </div>
 
 <br/><br/>
 
 ---
 
-## &nbsp;◈ &nbsp;CONTRIBUTION FREQUENCY
+## ⬡ &nbsp; `GALACTIC METRICS — CONTRIBUTION ANALYSIS`
 
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ferhatolmez/ferhatolmez/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ferhatolmez/ferhatolmez/output/github-snake.svg"/>
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/ferhatolmez/ferhatolmez/output/github-snake.svg" width="100%"/>
-  </picture>
-  <br/>
-  <sub><i>↑ Contribution graph regenerates autonomously every 6 hours</i></sub>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ferhatolmez&show_icons=true&theme=merko&hide_border=true&title_color=00FFFF&icon_color=00FF41&text_color=8B949E&bg_color=0A0E1A&include_all_commits=true&rank_icon=github&ring_color=8B00FF" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatolmez&layout=compact&theme=merko&hide_border=true&title_color=00FFFF&text_color=8B949E&bg_color=0A0E1A&hide=jupyter%20notebook" width="49%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ferhatolmez&theme=merko&hide_border=true&background=0A0E1A&ring=00FFFF&fire=8B00FF&currStreakLabel=00FFFF&sideLabels=8B949E&dates=8B949E" width="70%" />
+
 </div>
 
 <br/><br/>
 
 ---
 
-<details>
-<summary><b>&nbsp;◈ &nbsp;[ CLASSIFIED — EXPAND FOR HIDDEN TRANSMISSION ]</b></summary>
+## ⬡ &nbsp; `ACHIEVEMENT MATRIX — DECODED TROPHIES`
 
 <br/>
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   ██████████████████████████████████████████████████████████    ║
-║                                                                  ║
-║   You found it. Not everyone looks this deep.                    ║
-║                                                                  ║
-║   → I debug at midnight and ship before dawn.                    ║
-║   → Coffee is my runtime dependency.                             ║
-║   → The best feature is the one the user never notices.          ║
-║   → Istanbul's two sides? My frontend and my backend.            ║
-║                                                                  ║
-║   Currently listening to: Lo-fi beats & compiler warnings.       ║
-║                                                                  ║
-║   ██████████████████████████████████████████████████████████    ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</details>
-
-<br/>
-
----
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,100:0D1117&height=130&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ferhatolmez&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=6" width="100%" />
+
+</div>
+
+<br/><br/>
+
+---
+
+## ⬡ &nbsp; `ACTIVITY TRAIL — QUANTUM SNAKE PROTOCOL`
 
 <br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ferhatolmez/ferhatolmez/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ferhatolmez/ferhatolmez/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ferhatolmez/ferhatolmez/output/github-snake.svg" width="100%" />
+</picture>
+
+<sub><code>◈ Contribution trail — intercepted and re-rendered every 6 hours ◈</code></sub>
+
+</div>
+
+<br/><br/>
+
+---
+
+<br/>
+
+<div align="center">
 
 ```
-[ ── TRANSMISSION COMPLETE ─────────────────────────────────── ]
-[    ORIGIN  :  Istanbul, Turkey  41°0′N 28°57′E               ]
-[    UPTIME  :  Class of 2025 → Present                        ]
-[    SIGNAL  :  Still transmitting. Always building.           ]
-[ ────────────────────────────────────── END OF FILE ────────── ]
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║   ◈  END OF TRANSMISSION                                                ║
+║   ◈  ENTITY : FERHAT ÖLMEZ — ISTANBUL NODE — SOL-III                   ║
+║   ◈  MESSAGE : OPEN FOR CONTACT. SEEKING NEXT MISSION.                  ║
+║   ◈  CHANNEL : ferology1317@gmail.com                                   ║
+║                                                                          ║
+║   "First, solve the problem. Then, write the code."  — John Johnson     ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-> *"The Bosphorus separates two continents — code connects them."*
-
-<br/>
-
-<sub><i>Actively building. Perpetually learning. Istanbul, Turkey 🇹🇷</i></sub>
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=%E2%96%93%20SIGNAL%20LOST%20%E2%96%93&fontSize=28&fontColor=00FFFF&animation=twinkling&fontAlignY=55" />
 
 </div>

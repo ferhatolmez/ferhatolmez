@@ -1,132 +1,189 @@
-<h1 align="center">Hey there, I'm Ferhat! 👋</h1>
+<br/>
 
-<p align="center">
+<div align="center">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="120" />
+
+  <h1 align="center">FERHAT ÖLMEZ</h1>
+  
+  <p align="center">
+    <a href="https://github.com/ferhatolmez">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=586069&center=true&vCenter=true&width=600&height=40&lines=Junior+Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Passionate+about+Clean+Code+%26+Continuous+Growth" alt="Typing SVG" />
+    </a>
+  </p>
+
+  <p align="center">
+     Software Engineering graduate building modern, user-focused web interfaces and RESTful APIs. <br/> Focusing on real-world problem solving, seamless UI/UX, and mastering full-stack JavaScript environments.
+  </p>
+
+
+
+  <br/>
+
+  <p align="center">
+    <a href="mailto:ferology1317@gmail.com"><img src="https://img.shields.io/badge/Email-ferology1317@gmail.com-black?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/ferhat-ölmez-460555363/"><img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <img src="https://komarev.com/ghpvc/?username=ferhatolmez&color=black&style=flat-square&label=views" alt="Views" />
+  </p>
+
+</div>
+
+<br/><br/>
+
+## ✦ Developer Terminal
+
+<div align="center">
   <a href="https://github.com/ferhatolmez">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+.NET;Building+things+that+matter+%F0%9F%92%99;Based+in+Istanbul%2C+Turkey+%F0%9F%87%B9%F0%9F%87%B7;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1000&color=24292E&background=F6F8FA&center=false&vCenter=true&multiline=true&repeat=false&width=750&height=170&lines=%3E+ferhat+--fetch-cv;%7B;++%22role%22%3A+%22Junior+Full+Stack+Developer%22%2C;++%22focus%22%3A+%22Modern+Web+Apps+%26+RESTful+APIs%22%2C;++%22stack%22%3A+%5B%22React%22%2C+%22Next.js%22%2C+%22Node.js%22%2C+%22MongoDB%22%5D%2C;++%22education%22%3A+%22BSc+Software+Engineering+%282025%29%22%2C;++%22fun_fact%22%3A+%22Debugging+like+a+detective+solves+crimes+%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F%22;%7D" alt="Terminal Simulation" />
   </a>
-</p>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ferhat-ölmez-460555363/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ferology1317@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ferhatolmez"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ferhatolmez&style=flat-square&color=6366F1" />
-</p>
+<br/><br/>
 
----
+## ✦ Selected Works
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+A curated list of projects I've built, emphasizing clean architecture, real-time performance, and modern UI/UX.
 
-### 🧐 More About Me
+<br/>
 
-- 🎓 &nbsp; BSc Software Engineering graduate **(2025)**
-- 🏙️ &nbsp; Based in **Istanbul, Turkey**
-- 💼 &nbsp; Currently looking for **Full Stack roles**
-- 🔭 &nbsp; Building real-world apps with **React, Node.js & .NET**
-- 🌱 &nbsp; Currently exploring **System Design & Cloud**
-- 🤝 &nbsp; Open to collaborating on interesting **open source** projects
-- 💬 &nbsp; Ask me about anything **JavaScript / C# / PHP** related
-- 📫 &nbsp; Reach me at **ferology1317@gmail.com**
-- ⚡ &nbsp; Fun fact: I debug like a detective 🕵️‍♂️ — one clue at a time
+<table align="center" width="100%" border="0">
+  <tr>
+    <td width="5%" align="center">🎥</td>
+    <td width="35%">
+      <b><a href="https://webrtcprojesi.onrender.com">WebRTC Video Platform</a></b>
+    </td>
+    <td width="40%">
+      Cross-platform P2P video calling & messaging platform with hybrid architecture. Built native Windows client via SIPSorcery.
+    </td>
+    <td width="20%">
+       <code>C#</code> <code>.NET 8</code> <code>WebRTC</code> <code>JS</code>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4"><hr/></td>
+  </tr>
+  <tr>
+    <td width="5%" align="center">🫁</td>
+    <td width="35%">
+      <b><a href="https://github.com/ferhatolmez/PredictionOfChestDiseaseFromX-Ray">Chest Disease AI Engine</a></b>
+    </td>
+    <td width="40%">
+      Deep learning pipeline using CNNs for healthcare diagnostics. Classifies chest diseases directly from raw X-Ray imaging.
+    </td>
+    <td width="20%">
+      <code>Python</code> <code>TensorFlow</code> <code>OpenCV</code>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4"><hr/></td>
+  </tr>
+  <tr>
+    <td width="5%" align="center">🏥</td>
+    <td width="35%">
+      <b><a href="https://lohusa-bebek-izlem.onrender.com/">Clinical Tracking System</a></b>
+    </td>
+    <td width="40%">
+      Full-scale clinical tracking application for postpartum care. Features complex dynamic forms, role-based auth, and automated PDF reporting.
+    </td>
+    <td width="20%">
+      <code>Laravel 12</code> <code>PHP 8</code> <code>MySQL</code>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4"><hr/></td>
+  </tr>
+  <tr>
+    <td width="5%" align="center">🏫</td>
+    <td width="35%">
+      <b><a href="https://github.com/ferhatolmez/SchoolManagementSystem">School Management Architecture</a></b>
+    </td>
+    <td width="40%">
+      Enterprise-grade school management system. Handles student lifecycles, course scheduling, and administrative dashboards.
+    </td>
+    <td width="20%">
+      <code>C#</code> <code>.NET Core</code> <code>SQL Server</code>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4"><hr/></td>
+  </tr>
+  <tr>
+    <td width="5%" align="center">⚡</td>
+    <td width="35%">
+      <b><a href="https://mernapp-ecru.vercel.app">Modern MERN App</a></b>
+    </td>
+    <td width="40%">
+      Production-ready full-stack application. Features responsive UI, secure RESTful API, and NoSQL database management.
+    </td>
+    <td width="20%">
+      <code>React</code> <code>Node.js</code> <code>MongoDB</code>
+    </td>
+  </tr>
+</table>
 
-<br clear="right" />
+<br/><br/>
 
----
+## ✦ Core Technologies
 
-### 🛠️ Languages & Tools
+Minimalist overview of the primary tools and languages I use in production.
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<br/>
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,py,php&theme=dark" />
+</a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,nodejs,express,laravel,dotnet&theme=dark" />
+</a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=tensorflow,mongodb,postgres,mysql,docker,git,github,gitlab,postman&theme=dark" />
+</a>
+
+</div>
+
+<br/><br/>
+
+## ✦ Metrics & Contributions
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ferhatolmez&show_icons=true&theme=transparent&hide_border=true&title_color=black&text_color=586069&icon_color=black&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatolmez&layout=compact&theme=transparent&hide_border=true&title_color=black&text_color=586069&hide=jupyter%20notebook" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ferhatolmez/ferhatolmez/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ferhatolmez/ferhatolmez/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/ferhatolmez/ferhatolmez/output/github-snake.svg" width="100%" />
+  </picture>
   <br/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <p align="center"><sub>Contribution graph automatically generated every 6 hours</sub></p>
+</div>
+
+<br/>
+
+<br/>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&height=20&lines=Only+those+who+code+in+the+dark+can+read+this...+%F0%9F%A6%87" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&pause=1000&color=FFFFFF00&center=true&vCenter=true&width=500&height=20&lines=" />
+    <img alt="easter egg" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&pause=1000&color=FFFFFF00&center=true&vCenter=true&width=500&height=20&lines=" />
+  </picture>
+</div>
+
+<p align="center">
+  <sub><b>"First, solve the problem. Then, write the code."</b> — John Johnson</sub>
   <br/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-<p align="left">
-  <a href="https://webrtcprojesi.onrender.com">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ferhatolmez&repo=webrtcprojesi&theme=tokyonight&hide_border=true&title_color=6366F1&icon_color=6366F1" />
-  </a>
-  <a href="https://github.com/ferhatolmez/PredictionOfChestDiseaseFromX-Ray">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ferhatolmez&repo=PredictionOfChestDiseaseFromX-Ray&theme=tokyonight&hide_border=true&title_color=6366F1&icon_color=6366F1" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/ferhatolmez/SchoolManagementSystem">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ferhatolmez&repo=SchoolManagementSystem&theme=tokyonight&hide_border=true&title_color=6366F1&icon_color=6366F1" />
-  </a>
-  <a href="https://mernapp-ecru.vercel.app">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ferhatolmez&repo=mernapp&theme=tokyonight&hide_border=true&title_color=6366F1&icon_color=6366F1" />
-  </a>
-</p>
-
-> 🏥 **[Clinical Tracking System](https://lohusa-bebek-izlem.onrender.com/)** — Postpartum care platform with role-based auth, dynamic forms & automated PDF reporting. `Laravel 12` `PHP 8` `MySQL`
-
----
-
-### 📊 Github Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ferhatolmez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatolmez&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&langs_count=8" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=ferhatolmez&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ferhatolmez&theme=tokyo-night&hide_border=true&area=true&radius=8" width="100%" />
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ferhatolmez&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
-</p>
-
----
-
-### 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ferhatolmez/ferhatolmez/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ferhatolmez/ferhatolmez/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/ferhatolmez/ferhatolmez/output/github-snake.svg" width="100%" />
-</picture>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="75%" />
-</p>
-
-<p align="center">
-  <sub>⭐ <b>"First, solve the problem. Then, write the code."</b> — John Johnson</sub>
+  <sub><i>Istanbul, Turkey 🇹🇷</i></sub>
 </p>

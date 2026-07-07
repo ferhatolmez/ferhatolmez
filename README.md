@@ -152,13 +152,6 @@ Minimalist overview of the primary tools and languages I use in production.
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferhatolmez&show_icons=true&theme=transparent&hide_border=true&title_color=black&text_color=586069&icon_color=black&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatolmez&layout=compact&theme=transparent&hide_border=true&title_color=black&text_color=586069&hide=jupyter%20notebook" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ferhatolmez/ferhatolmez/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ferhatolmez/ferhatolmez/output/github-snake.svg" />
